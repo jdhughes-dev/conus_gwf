@@ -1,0 +1,23 @@
+name: "conus"
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pip
+  - jupyterlab
+  - jupyterlab_execute_time
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - hdf5
+  - netcdf4
+  - xarray
+  - rasterio
+  - rasterstats
+  - flopy
+  - pymetis
+  - contextily
+
+  
